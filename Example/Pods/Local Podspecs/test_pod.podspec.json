@@ -1,0 +1,22 @@
+{
+  "name": "test_pod",
+  "version": "0.1.0",
+  "summary": "A short description of test_pod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/noheltcj/test_pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "noheltcj": "noheltycolton@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/noheltcj/test_pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "test_pod/Classes/**/*"
+}
